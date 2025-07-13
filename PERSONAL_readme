@@ -1,0 +1,20 @@
+ok,so this project is about learning of how network work and linux. i will make a program that measure the speed of internet
+and also make a JAVAFX UI for it
+
+
+plan is to make the project form scratch so i can learn deeply how all this work
+
+why am i making this?
+    because i was just using linux and heard about speedtest-cli.At this point it dont know this all work.
+    so i am just curious about what is this deadpool@fedora:~$ speedtest-cli
+                                            Retrieving speedtest.net configuration...
+                                            Testing from Charotar Telelink Pvt (103.148.122.201)...
+                                            Retrieving speedtest.net server list...
+                                            Selecting best server based on ping...
+                                            Hosted by Rtel Internet services Pvt Ltd (Kamrej) [117.60 km]: 28.414 ms
+                                            Testing download speed................................................................................
+                                            Download: 8.17 Mbit/s
+                                            Testing upload speed......................................................................................................
+                                            Upload: 2.40 Mbit/s
+    and
+    my real question is that what internet speed acutally means?
