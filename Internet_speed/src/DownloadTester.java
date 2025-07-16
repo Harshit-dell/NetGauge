@@ -7,8 +7,10 @@ public class DownloadTester {
         System.out.print("\nTesting download speed...");
 
         String fileUrl = "http://speedtest.tele2.net/1MB.zip";
-
-
+        /* Use this link if defualt link is not working 
+          "//https://gist.githubusercontent.com/khaykov/a6105154becce4c0530da38e723c2330/raw/gistfile1.txt"*/
+        
+        //Run custom_server and use this url  "http://localhost:8080/donwload"
         int bufferSize = 8192; // 8KB buffer
 
         try {
