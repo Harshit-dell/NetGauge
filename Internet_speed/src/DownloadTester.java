@@ -10,7 +10,7 @@ public class DownloadTester {
         /* Use this link if defualt link is not working 
           "//https://gist.githubusercontent.com/khaykov/a6105154becce4c0530da38e723c2330/raw/gistfile1.txt"*/
         
-        //Run custom_server and use this url  "http://localhost:8080/donwload"
+        //Run custom_server and use this url  "http://localhost:8080/download"
         int bufferSize = 8192; // 8KB buffer
 
         try {
