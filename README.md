@@ -27,3 +27,7 @@ NetGauge is a Java-based internet speed testing tool featuring client and server
 
 Before running any test, you **must start the custom HTTP server** included in this repository.  
 The server handles both `/download` and `/upload` requests and must be active for the client tests to function properly.
+
+### How to start
+-Run the Custom_httpserver in Repo that handel all data
+-you can directly run it throught the Main class
